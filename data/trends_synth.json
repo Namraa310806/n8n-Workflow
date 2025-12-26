@@ -1,0 +1,2063 @@
+{
+  "generated_from": "data\\workflows.json",
+  "rows": [
+    {
+      "keyword": "agent",
+      "score": 518.0,
+      "mentions": 518,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "build",
+      "score": 439.0,
+      "mentions": 439,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "tutorial",
+      "score": 404.0,
+      "mentions": 404,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "google",
+      "score": 395.0,
+      "mentions": 395,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "step",
+      "score": 376.0,
+      "mentions": 376,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "free",
+      "score": 320.0,
+      "mentions": 320,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "connect",
+      "score": 287.0,
+      "mentions": 287,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "slack",
+      "score": 281.0,
+      "mentions": 281,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "agents",
+      "score": 260.0,
+      "mentions": 260,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "automate",
+      "score": 257.0,
+      "mentions": 257,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "workflows",
+      "score": 254.0,
+      "mentions": 254,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "code",
+      "score": 247.0,
+      "mentions": 247,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "sheets",
+      "score": 240.0,
+      "mentions": 240,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "2025",
+      "score": 232.0,
+      "mentions": 232,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "whatsapp",
+      "score": 220.0,
+      "mentions": 220,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "using",
+      "score": 212.0,
+      "mentions": 212,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "you",
+      "score": 206.0,
+      "mentions": 206,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "zapier",
+      "score": 200.0,
+      "mentions": 200,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "airtable",
+      "score": 182.0,
+      "mentions": 182,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "guide",
+      "score": 180.0,
+      "mentions": 180,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "use",
+      "score": 161.0,
+      "mentions": 161,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "aiautomation",
+      "score": 147.0,
+      "mentions": 147,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "minutes",
+      "score": 141.0,
+      "mentions": 141,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "gmail",
+      "score": 139.0,
+      "mentions": 139,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "built",
+      "score": 137.0,
+      "mentions": 137,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "make",
+      "score": 133.0,
+      "mentions": 133,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "artificialintelligence",
+      "score": 123.0,
+      "mentions": 123,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "email",
+      "score": 119.0,
+      "mentions": 119,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "drive",
+      "score": 116.0,
+      "mentions": 116,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "full",
+      "score": 106.0,
+      "mentions": 106,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "beginner",
+      "score": 102.0,
+      "mentions": 102,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "beginners",
+      "score": 98.0,
+      "mentions": 98,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "shorts",
+      "score": 98.0,
+      "mentions": 98,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "emails",
+      "score": 96.0,
+      "mentions": 96,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "coding",
+      "score": 94.0,
+      "mentions": 94,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "shopify",
+      "score": 92.0,
+      "mentions": 92,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "automations",
+      "score": 90.0,
+      "mentions": 90,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "create",
+      "score": 88.0,
+      "mentions": 88,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "webhooks",
+      "score": 78.0,
+      "mentions": 78,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "integration",
+      "score": 77.0,
+      "mentions": 77,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "template",
+      "score": 76.0,
+      "mentions": 76,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "master",
+      "score": 75.0,
+      "mentions": 75,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "aiagent",
+      "score": 75.0,
+      "mentions": 75,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "tool",
+      "score": 73.0,
+      "mentions": 73,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "automated",
+      "score": 73.0,
+      "mentions": 73,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "instantly",
+      "score": 72.0,
+      "mentions": 72,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "easy",
+      "score": 72.0,
+      "mentions": 72,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "chatgpt",
+      "score": 72.0,
+      "mentions": 72,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "course",
+      "score": 71.0,
+      "mentions": 71,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "github",
+      "score": 70.0,
+      "mentions": 70,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "just",
+      "score": 70.0,
+      "mentions": 70,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "these",
+      "score": 69.0,
+      "mentions": 69,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "first",
+      "score": 65.0,
+      "mentions": 65,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "builder",
+      "score": 64.0,
+      "mentions": 64,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "need",
+      "score": 63.0,
+      "mentions": 63,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "setup",
+      "score": 63.0,
+      "mentions": 63,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "only",
+      "score": 60.0,
+      "mentions": 60,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "stop",
+      "score": 60.0,
+      "mentions": 60,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "new",
+      "score": 60.0,
+      "mentions": 60,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "best",
+      "score": 60.0,
+      "mentions": 60,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "rag",
+      "score": 59.0,
+      "mentions": 59,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "excel",
+      "score": 59.0,
+      "mentions": 59,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "com",
+      "score": 58.0,
+      "mentions": 58,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "anything",
+      "score": 57.0,
+      "mentions": 57,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "openai",
+      "score": 56.0,
+      "mentions": 56,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "agentgpt",
+      "score": 55.0,
+      "mentions": 55,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "insane",
+      "score": 55.0,
+      "mentions": 55,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "seconds",
+      "score": 55.0,
+      "mentions": 55,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "system",
+      "score": 55.0,
+      "mentions": 55,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "which",
+      "score": 55.0,
+      "mentions": 55,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "send",
+      "score": 54.0,
+      "mentions": 54,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "sell",
+      "score": 53.0,
+      "mentions": 53,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "api",
+      "score": 53.0,
+      "mentions": 53,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "data",
+      "score": 53.0,
+      "mentions": 53,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "ultimate",
+      "score": 52.0,
+      "mentions": 52,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "000",
+      "score": 51.0,
+      "mentions": 51,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "steal",
+      "score": 50.0,
+      "mentions": 50,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "techtok",
+      "score": 49.0,
+      "mentions": 49,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "can",
+      "score": 49.0,
+      "mentions": 49,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "start",
+      "score": 48.0,
+      "mentions": 48,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "learning",
+      "score": 48.0,
+      "mentions": 48,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "needed",
+      "score": 48.0,
+      "mentions": 48,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "claude",
+      "score": 47.0,
+      "mentions": 47,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "set",
+      "score": 47.0,
+      "mentions": 47,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "pdf",
+      "score": 47.0,
+      "mentions": 47,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "into",
+      "score": 46.0,
+      "mentions": 46,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "hours",
+      "score": 46.0,
+      "mentions": 46,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "sales",
+      "score": 46.0,
+      "mentions": 46,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "webhook",
+      "score": 46.0,
+      "mentions": 46,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "here",
+      "score": 45.0,
+      "mentions": 45,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "linkedin",
+      "score": 44.0,
+      "mentions": 44,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "complete",
+      "score": 43.0,
+      "mentions": 43,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "way",
+      "score": 43.0,
+      "mentions": 43,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "mcp",
+      "score": 43.0,
+      "mentions": 43,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "node",
+      "score": 43.0,
+      "mentions": 43,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "salesforce",
+      "score": 43.0,
+      "mentions": 43,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "one",
+      "score": 42.0,
+      "mentions": 42,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "made",
+      "score": 41.0,
+      "mentions": 41,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "para",
+      "score": 41.0,
+      "mentions": 41,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "any",
+      "score": 40.0,
+      "mentions": 40,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "save",
+      "score": 40.0,
+      "mentions": 40,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "2000",
+      "score": 39.0,
+      "mentions": 39,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "2026",
+      "score": 39.0,
+      "mentions": 39,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "chatbot",
+      "score": 39.0,
+      "mentions": 39,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "without",
+      "score": 39.0,
+      "mentions": 39,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "youtube",
+      "score": 39.0,
+      "mentions": 39,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "productivity",
+      "score": 38.0,
+      "mentions": 38,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "team",
+      "score": 37.0,
+      "mentions": 37,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "pro",
+      "score": 36.0,
+      "mentions": 36,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "auto",
+      "score": 36.0,
+      "mentions": 36,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "bot",
+      "score": 36.0,
+      "mentions": 36,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "ever",
+      "score": 35.0,
+      "mentions": 35,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "alternative",
+      "score": 35.0,
+      "mentions": 35,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "handling",
+      "score": 34.0,
+      "mentions": 34,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "right",
+      "score": 34.0,
+      "mentions": 34,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "aiagents",
+      "score": 34.0,
+      "mentions": 34,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "videos",
+      "score": 34.0,
+      "mentions": 34,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "self",
+      "score": 34.0,
+      "mentions": 34,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "credentials",
+      "score": 34.0,
+      "mentions": 34,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "nocode",
+      "score": 33.0,
+      "mentions": 33,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "watch",
+      "score": 32.0,
+      "mentions": 32,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "building",
+      "score": 32.0,
+      "mentions": 32,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "time",
+      "score": 31.0,
+      "mentions": 31,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "app",
+      "score": 31.0,
+      "mentions": 31,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "autopilot",
+      "score": 31.0,
+      "mentions": 31,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "lead",
+      "score": 31.0,
+      "mentions": 31,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "tips",
+      "score": 31.0,
+      "mentions": 31,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "assistant",
+      "score": 30.0,
+      "mentions": 30,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "automatically",
+      "score": 30.0,
+      "mentions": 30,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "voice",
+      "score": 30.0,
+      "mentions": 30,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "now",
+      "score": 29.0,
+      "mentions": 29,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "turn",
+      "score": 29.0,
+      "mentions": 29,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "everything",
+      "score": 29.0,
+      "mentions": 29,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "nodes",
+      "score": 29.0,
+      "mentions": 29,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "crm",
+      "score": 29.0,
+      "mentions": 29,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "please",
+      "score": 28.0,
+      "mentions": 28,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "before",
+      "score": 28.0,
+      "mentions": 28,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "1000",
+      "score": 28.0,
+      "mentions": 28,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "trigger",
+      "score": 28.0,
+      "mentions": 28,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "simple",
+      "score": 27.0,
+      "mentions": 27,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "local",
+      "score": 27.0,
+      "mentions": 27,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "premium",
+      "score": 27.0,
+      "mentions": 27,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "templates",
+      "score": 27.0,
+      "mentions": 27,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "explained",
+      "score": 27.0,
+      "mentions": 27,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "con",
+      "score": 27.0,
+      "mentions": 27,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "como",
+      "score": 27.0,
+      "mentions": 27,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "boost",
+      "score": 26.0,
+      "mentions": 26,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "seriously",
+      "score": 25.0,
+      "mentions": 25,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "will",
+      "score": 25.0,
+      "mentions": 25,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "cases",
+      "score": 25.0,
+      "mentions": 25,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "better",
+      "score": 25.0,
+      "mentions": 25,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "telegram",
+      "score": 25.0,
+      "mentions": 25,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "minute",
+      "score": 25.0,
+      "mentions": 25,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "replies",
+      "score": 25.0,
+      "mentions": 25,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "not",
+      "score": 25.0,
+      "mentions": 25,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "error",
+      "score": 24.0,
+      "mentions": 24,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "apps",
+      "score": 24.0,
+      "mentions": 24,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "real",
+      "score": 24.0,
+      "mentions": 24,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "never",
+      "score": 24.0,
+      "mentions": 24,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "update",
+      "score": 24.0,
+      "mentions": 24,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "quick",
+      "score": 23.0,
+      "mentions": 23,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "features",
+      "score": 23.0,
+      "mentions": 23,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "via",
+      "score": 23.0,
+      "mentions": 23,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "invoice",
+      "score": 23.0,
+      "mentions": 23,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "website",
+      "score": 23.0,
+      "mentions": 23,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "analyzes",
+      "score": 23.0,
+      "mentions": 23,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "under",
+      "score": 23.0,
+      "mentions": 23,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "appointment",
+      "score": 22.0,
+      "mentions": 22,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "deepseek",
+      "score": 22.0,
+      "mentions": 22,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "required",
+      "score": 22.0,
+      "mentions": 22,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "learn",
+      "score": 22.0,
+      "mentions": 22,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "know",
+      "score": 22.0,
+      "mentions": 22,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "cold",
+      "score": 22.0,
+      "mentions": 22,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "don",
+      "score": 22.0,
+      "mentions": 22,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "business",
+      "score": 21.0,
+      "mentions": 21,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "orders",
+      "score": 21.0,
+      "mentions": 21,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "notion",
+      "score": 21.0,
+      "mentions": 21,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "entire",
+      "score": 20.0,
+      "mentions": 20,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "video",
+      "score": 20.0,
+      "mentions": 20,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "masterclass",
+      "score": 20.0,
+      "mentions": 20,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "cool",
+      "score": 20.0,
+      "mentions": 20,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "unlimited",
+      "score": 20.0,
+      "mentions": 20,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "instead",
+      "score": 20.0,
+      "mentions": 20,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "work",
+      "score": 20.0,
+      "mentions": 20,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "content",
+      "score": 20.0,
+      "mentions": 20,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "all",
+      "score": 20.0,
+      "mentions": 20,
+      "platforms": [
+        "Discourse",
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "open",
+      "score": 20.0,
+      "mentions": 20,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "multi",
+      "score": 19.0,
+      "mentions": 19,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "generator",
+      "score": 19.0,
+      "mentions": 19,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "fast",
+      "score": 19.0,
+      "mentions": 19,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "files",
+      "score": 19.0,
+      "mentions": 19,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "web",
+      "score": 18.0,
+      "mentions": 18,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "posts",
+      "score": 18.0,
+      "mentions": 18,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "inbox",
+      "score": 18.0,
+      "mentions": 18,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "lovable",
+      "score": 18.0,
+      "mentions": 18,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "source",
+      "score": 18.0,
+      "mentions": 18,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "life",
+      "score": 17.0,
+      "mentions": 17,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "private",
+      "score": 17.0,
+      "mentions": 17,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "images",
+      "score": 17.0,
+      "mentions": 17,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    },
+    {
+      "keyword": "hour",
+      "score": 17.0,
+      "mentions": 17,
+      "platforms": [
+        "YouTube"
+      ],
+      "growth_pct_60d": null,
+      "monthly_search_estimate": null
+    }
+  ]
+}
